@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/studentdata/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/swing/AddStudentPane.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/swing/ChangeStudentPane.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/swing/CheckStudentPane.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/swing/DeleteStudentsPane.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/swing/FindStudent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/swing/MainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/swing/StudentFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/swing/StudentsTablePane.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/swing/TeacherFrame.java" charset="GBK" />
+  </component>
+</project>
